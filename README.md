@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @offlight1
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on API's, I am trying to learn how to use them.
+- 💞️ I’m looking to collaborate on Pygame.
 - 📫 How to reach me kevinpuerto1010@gmail.com
 
 <!---
