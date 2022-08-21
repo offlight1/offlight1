@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @offlight1
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Pygame.
+- 🌱 I’m currently learning python, GDscript, and kvlang!
+- 💞️ I’m looking to collaborate on Godot or Kivy(python)
 - 📫 How to reach me kevinpuerto1010@gmail.com
 
 <!---
