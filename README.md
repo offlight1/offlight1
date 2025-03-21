@@ -1,4 +1,4 @@
-- Highschool Software Developer and Basketball Player
+- Highschool Software Engineer and Basketball Player
 - Certified Apprentice and Specialist in Python. https://www.credential.net/profile/kevinpuerto78344/wallet
 - Coding since March 2022
 - JavaScript, HTML, CSS, Python
